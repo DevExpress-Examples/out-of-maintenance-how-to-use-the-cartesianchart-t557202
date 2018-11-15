@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CartesianChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/CartesianChart/MainPage.xaml))
+<!-- default file list end -->
 # How to: Use the CartesianChart
 
 
